@@ -18,7 +18,7 @@
 - 🎶 **Music:** An avid music lover
 - 🎨 **Art:** Expressing creativity through various forms of art
 
-## 💻 Tech Stack:
+## 💻 Tech Stack and Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -34,13 +34,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-khushi&layout=compact&theme=radical)
 
 ## 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/muskan/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/muskan/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/muskan)
-[![Code360](https://img.shields.io/badge/-Code360-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code360.com/user/muskan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-khushi86/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/muskan-khushi/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)]([https://auth.geeksforgeeks.org/user/muskan/](https://www.geeksforgeeks.org/user/muskankhuwjiv/))
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/muskankhushi_)
+[![Code 360](https://img.shields.io/badge/-Code360-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]((https://www.naukri.com/code360/profile/16a9887b-8266-4927-808f-e35ce6e90753))
 
 ---
 
-✨ *Feel free to reach out for collaborations, projects, or just a friendly chat!* 😊
 
