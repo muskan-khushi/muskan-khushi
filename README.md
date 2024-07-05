@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 Welcome to My World!
 
 👋 **Hello, world! I'm Muskan!**
