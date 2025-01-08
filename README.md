@@ -4,7 +4,7 @@
 > A sophomore at NIT Patna, pursuing a dual degree (B.Tech + M.Tech) in Mathematics and Computing Technology.
 
 ## 🚀 About Me:
-- 🌟 **Passionate Coder:** Proficient in C, C++, Python
+- 🌟 **Passionate Coder:** Proficient in C, C++, Java, Python
 - 🌐 **Web Enthusiast:** Crafting beautiful websites with HTML, CSS, and JavaScript
 - 🎨 **Design Lover:** Creating stunning visuals with Adobe Photoshop and Figma
 
